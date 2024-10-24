@@ -1,0 +1,27 @@
+
+.sidebar {
+    background-color: #ff6600;;
+    color: white;
+    width: 200px;
+    min-height: 100vh;
+    padding: 1rem;
+  }
+  
+  .sidebar-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-links li {
+    margin: 1rem 0;
+  }
+  
+  .sidebar-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .sidebar-links a:hover {
+    text-decoration: underline;
+  }
+  
